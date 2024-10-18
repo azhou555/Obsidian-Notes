@@ -1,0 +1,4 @@
+---
+---
+abcd -> dcbaabcd
+baabc-> cbaabc

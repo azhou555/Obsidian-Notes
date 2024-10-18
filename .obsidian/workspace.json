@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "94e89a1231fc92d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e40563c44efced4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cdb44de44d1cdd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMSC250/Intro to Discrete & Basic Logic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro to Discrete & Basic Logic"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70d81af3dbd12e92",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b217906b5a76e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda0c0a168690b65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9a27c36f0e91651",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "instruction pointer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b5fcecff8e5ee14a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0e9395d300190795",
+    "type": "split",
+    "children": [
+      {
+        "id": "be4e23f2d6d5475d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57579cb918477cb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AOSC375/Lecture 1 8.26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lecture 1 8.26"
+            }
+          },
+          {
+            "id": "997ef5b97b7787d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AOSC375/Lecture 1 8.26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lecture 1 8.26"
+            }
+          },
+          {
+            "id": "3031a5037a9ea8ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c59f27c2adbe707b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CMSC250/Intro to Discrete & Basic Logic.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Intro to Discrete & Basic Logic"
+            }
+          },
+          {
+            "id": "7ec8307195da96b4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7cdb44de44d1cdd3",
+  "lastOpenFiles": [
+    "CMSC351/Lecture 2 8.28.md",
+    "AOSC375/Lecture 1 8.26.md",
+    "AOSC375/Notes.md",
+    "Obsidian-Notes",
+    "New Text Document.txt",
+    "AOSC375/Lecture 2 8.28.md",
+    "ObsidianNotes",
+    "CMSC330/OCaml.md",
+    "AOSC375/Lecture 4 9.4.md",
+    "Keys/API Keys.md",
+    "CMSC250/Proof Formats.md",
+    "Untitled.md",
+    "CMSC330",
+    "Untitled",
+    "CLAS274/Chaereas and Callirhoe.md",
+    "CLAS274",
+    "CMSC351",
+    "AOSC375",
+    "AOSC200/Midterm Review.md",
+    "Keys",
+    "AOSC200/Final Review.md",
+    "AOSC200/Chapter 1 Notes.md",
+    "CMSC216/Pictures/Forking With Waiting.png",
+    "CMSC216/Pictures/Basic Forking Layout.png",
+    "CMSC216/Pictures",
+    "AOSC200/Lecture - Albedo, Energy, and Gas Law.md",
+    "AOSC200/Quiz 1 Review.md",
+    "CMSC216/Arrays & Pointers.md",
+    "CMSC216/Assembly.md",
+    "CMSC216/Pictures/Logical Regions of Program Memory.png",
+    "CMSC216/Data Types, Pointers, & Arrays.md",
+    "CMSC216/Processes.md",
+    "CMSC216/Files, Control Structures, & Binary.md",
+    "CMSC216/Final Review Exam 1.md",
+    "CMSC216/Floats.md",
+    "CMSC216/Pointers & Memory.md",
+    "CMSC216/Valgrind, Structs, & Malloc.md",
+    "CMSC216/Midterm 2 Brain Dump - Assembly.md",
+    "Leetcode Notes/Gas Station.jpeg",
+    "Leetcode Notes/canJump II Notes.jpeg",
+    "MATH246/Photos/Pasted image 20240507091009.png",
+    "MATH246/Photos/Pasted image 20240506212013.png",
+    "MATH246/Photos/Pasted image 20240506211511.png",
+    "AOSC200/Images/Orographic Lifting.png",
+    "CMSC216/Pictures/Hardware Layout.png",
+    "Untitled.canvas"
+  ]
+}
