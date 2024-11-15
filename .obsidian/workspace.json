@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC250/Intro to Discrete & Basic Logic.md",
+                "file": "AOSC375/Final Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro to Discrete & Basic Logic"
+              "title": "Final Notes"
             }
           }
         ]
@@ -178,20 +178,30 @@
   },
   "active": "7cdb44de44d1cdd3",
   "lastOpenFiles": [
-    "CMSC351/Lecture 2 8.28.md",
-    "AOSC375/Lecture 1 8.26.md",
+    "AOSC375/Exam 2 Prep.md",
+    "AOSC375/Final Notes.md",
     "AOSC375/Notes.md",
-    "Obsidian-Notes",
-    "New Text Document.txt",
+    "AOSC375/Images/Pasted image 20241107214523.png",
+    "AOSC375/Images/Pasted image 20241107184007.png",
+    "AOSC375/Images/Pasted image 20241107183958.png",
+    "AOSC375/Images/Pasted image 20241107212722.png",
+    "AOSC375/Lecture 1 8.26.md",
     "AOSC375/Lecture 2 8.28.md",
-    "ObsidianNotes",
-    "CMSC330/OCaml.md",
     "AOSC375/Lecture 4 9.4.md",
+    "AOSC375/Images",
+    "Untitled",
     "Keys/API Keys.md",
     "CMSC250/Proof Formats.md",
+    "CMSC330/Exam 2 Review.md",
+    "CMSC330/Rust.md",
+    "CMSC250/Intro to Discrete & Basic Logic.md",
+    "CMSC351/Lecture 2 8.28.md",
+    "Obsidian-Notes",
+    "New Text Document.txt",
+    "ObsidianNotes",
+    "CMSC330/OCaml.md",
     "Untitled.md",
     "CMSC330",
-    "Untitled",
     "CLAS274/Chaereas and Callirhoe.md",
     "CLAS274",
     "CMSC351",
@@ -202,7 +212,6 @@
     "AOSC200/Chapter 1 Notes.md",
     "CMSC216/Pictures/Forking With Waiting.png",
     "CMSC216/Pictures/Basic Forking Layout.png",
-    "CMSC216/Pictures",
     "AOSC200/Lecture - Albedo, Energy, and Gas Law.md",
     "AOSC200/Quiz 1 Review.md",
     "CMSC216/Arrays & Pointers.md",
@@ -212,17 +221,9 @@
     "CMSC216/Processes.md",
     "CMSC216/Files, Control Structures, & Binary.md",
     "CMSC216/Final Review Exam 1.md",
-    "CMSC216/Floats.md",
-    "CMSC216/Pointers & Memory.md",
-    "CMSC216/Valgrind, Structs, & Malloc.md",
-    "CMSC216/Midterm 2 Brain Dump - Assembly.md",
     "Leetcode Notes/Gas Station.jpeg",
     "Leetcode Notes/canJump II Notes.jpeg",
     "MATH246/Photos/Pasted image 20240507091009.png",
-    "MATH246/Photos/Pasted image 20240506212013.png",
-    "MATH246/Photos/Pasted image 20240506211511.png",
-    "AOSC200/Images/Orographic Lifting.png",
-    "CMSC216/Pictures/Hardware Layout.png",
     "Untitled.canvas"
   ]
 }
